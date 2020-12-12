@@ -1,0 +1,4 @@
+inputs:
+  - name: project-name
+    type: question
+    message: What is the project name?
