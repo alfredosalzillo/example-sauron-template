@@ -1,4 +1,10 @@
+name: example-sauron-template
+version: 0.0.1
 inputs:
-  - name: project-name
+  - name: PROJECT_NAME
     type: question
     message: What is the project name?
+before: Using this awesome template made with sauron
+after: |
+  Project created successfully
+  run using 'deno run ./src/index.ts'

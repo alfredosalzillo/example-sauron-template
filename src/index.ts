@@ -1,1 +1,1 @@
-console.log('{{project-name}}')
+console.log('Hello from {{PROJECT_NAME}}')
